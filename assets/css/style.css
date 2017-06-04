@@ -1,0 +1,41 @@
+body{
+	background: url("../images/giftasticbackground.jpg");	
+	background-repeat: no-repeat;
+  opacity: 0.2
+  z-index: 99;
+}
+
+/*.panel-body {
+      word-break: break-all;
+    }*/
+
+.jumbotron{
+ 	background-color: dimgrey; 
+ 	color: yellow;
+ }
+
+#add-animal{
+	width: 40%;
+  position: absolute;
+}
+
+#submit{
+ 	position: relative;
+  display: block;
+  margin-left: 42%;
+  color: yellow;
+ }
+
+ .animal{
+ 	margin: 5px;
+ }
+
+ .image{
+  float:left;
+  margin: 5px;
+ }
+
+ .gif{
+    width:150px;
+    height: 150px;
+ }
